@@ -1,6 +1,6 @@
 # FIUBA-modelos-y-optimizacion
 - [📔 Mi notion - Notas de clase](https://jordafiuba.notion.site/Modelos-y-optimizacion-I-c30b2910d57641a593275c8a314bd831?pvs=4)
-- [💻 Repo TP Grupal](https://github.com/santiagojorda/FIUBA-modelos-y-optimizacion-tpg)
+- [💻 Repositorio Guias y TP Grupal](https://github.com/santiagojorda/FIUBA-modelos-y-optimizacion-tpg)
 
 ## Guias resueltas
 - [📄 PDF Guias 2 y 3 (Alejandro Abraham Osco Cabrera)](https://docs.google.com/document/d/16Mw7BcLAYlITQAGO6uzf92qz986nPeVGD2c_XV3iDL0/edit)
