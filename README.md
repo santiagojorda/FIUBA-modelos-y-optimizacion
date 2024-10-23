@@ -6,6 +6,7 @@
 - [📄 PDF Guias 2 y 3 (Alejandro Abraham Osco Cabrera)](https://docs.google.com/document/d/16Mw7BcLAYlITQAGO6uzf92qz986nPeVGD2c_XV3iDL0/edit)
 - [💻 Repositorio (@JDSanto)](https://github.com/JDSanto/modelos-resueltos)
 - [💻 Repositorio (@AbrahamOsco)](https://github.com/AbrahamOsco/Modelos71.14)
+- [💻 Mi Repo con algunos ejercicios en latex (@santiagojorda@)](https://github.com/santiagojorda/FIUBA-modelos-y-optimizacion-tpg)
 
 ## Recursos
 - [💻 LINDO - Software](https://www.lindo.com/index.php/ls-downloads)
