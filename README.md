@@ -18,3 +18,6 @@
 
 ## Clases
 - [📺 Clases](https://docs.google.com/document/d/1QjRMuX-JHnEmKfsM8BTE9M_KJ5ryV6PaPMiFgkDEzio/edit)
+
+## Agradecimientos
+- A Nahuel Godoy (@njGodoy) por compartir su resumen de tipos de problemas
